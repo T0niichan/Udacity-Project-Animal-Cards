@@ -1,0 +1,58 @@
+
+img {
+	width: 300px;
+	padding: 9px;
+	border-radius: 5px;
+
+}
+
+.info {
+	max-width: 300px;
+	border: 1px solid orange;
+	margin: 8px;
+	padding: 10px;
+	background-repeat: repeat-x;
+
+
+}
+
+.defacto {
+	font-style: italic;
+}
+
+body {
+
+	font-family: Arial, sans-serif;
+}
+
+li {
+	list-style-type: none;
+	text-indent: -40px;
+}
+
+h1 {
+	padding: 10px;
+	font-size: 40px;
+	color: grey;
+	margin: 0 auto;
+}
+
+.whole {
+	width: 320px;
+	border: 2px solid orange;
+	margin: 20px;
+
+	-webkit-box-shadow: 3px 13px 36px 1px rgba(50,117,72,0.61);
+	-moz-box-shadow: 3px 13px 36px 1px rgba(50,117,72,0.61);
+	box-shadow: 3px 13px 36px 1px rgba(50,117,72,0.61);
+	max-height: 800px;
+}
+
+
+
+
+
+.facts span{
+	font-weight: bold;
+
+}
